@@ -1,5 +1,5 @@
 <style>
-  .button {
+  .button1 {
     background-color: blue;
     border: none;
     color: white;
@@ -15,12 +15,6 @@
     height: 300px;
     display: block;
   }
-
-.button1 {
-  background-color: #afcdfa; 
-  color: black; 
-  border: 2px solid blue;
-}
 
 .button1:hover {
   background-color: blue;
