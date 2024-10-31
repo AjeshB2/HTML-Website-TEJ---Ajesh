@@ -2,8 +2,35 @@
 <html>
   <head>
     <title>HTML Website Index</title>
-    <link rel="stylesheet" href="style.css">
   </head>
+    <style>
+  .button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 32px 96px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 500px;
+    height: 150px;
+  }
+
+.button1 {
+  background-color: #afcdfa; 
+  color: black; 
+  border: 2px solid blue;
+}
+
+.button1:hover {
+  background-color: blue;
+  color: white;
+}
+  </style>
   <body>
     <table border=1>
       <tr>
@@ -12,12 +39,11 @@
         </td>
       </tr>
       <tr>
-        <td>
-          <center><a href="index.html"> <button class="button1">Button 1</button></a></center>
+         <td>
+          <center><a href="index.html"> <button class="button button1">Button 1</button></a></center>
         </td>
         <td>
-          <a href="page2.html">
-          <button style="height:150; width:500">Button2</button>
+          <center><a href="page2.html"> <button class="button button1">Button 2</button></a></center>
         </td>
         <td>
           <center><a href="page3.html"> <button class="button button1">Button 3</button></a></center>
@@ -27,9 +53,6 @@
         <td colspan= 3>
           <h1>Home Page</h1>
         </td>
-      </tr>
-      <tr>
-        <td colspan= 3>Footer</td>
       </tr>
     </table>
   </body>
