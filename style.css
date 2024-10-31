@@ -15,7 +15,7 @@
     display: block;
   }
 
-.button1:hover {
+td button:hover {
   background-color: blue;
   color: white;
 }
@@ -23,7 +23,7 @@
       height: 500px;
 }
 
-.botton td a {
+td button {
     display: block;
     background-color: blue;
     border: none;
