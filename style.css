@@ -1,20 +1,40 @@
-  .button1 {
-    background-color: blue;
-    border: none;
-    color: white;
-    padding: 32px 96px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 90px;
-    margin: 8px 4px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    width: 700px;
-    height: 300px;
-    display: block;
-  }
+body {
+  background-color: #2b2e8f;
+}
 
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 32px 96px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 490px;
+  height: 150px;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.button1 {
+  background-color: #84b1fa;
+  color: black;
+  border: 2px solid blue;
+}
+
+.button1:hover {
+  background-color: blue;
+  color: white;
+}
+
+#banner {
+  width: 1500px;
+  height: 600px;
 }
 
 #img {
@@ -22,18 +42,63 @@
   height: 500px;
 }
 
-td button {
-    display: block;
-    background-color: blue;
-    border: none;
-    color: white;
-    padding: 32px 96px;
-    text-align: center;
-    font-size: 90px;
-    margin: 8px 4px;
+#img2 {
+  float: right;
 }
-  
-td button:hover {
-  background-color: #fff;
-  color: white;
+
+#img3 {
+  float: left;
+}
+
+#text {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size: 20px;
+  background-color: #cce0fc;
+  font-family: Helvetica, sans-serif;
+}
+
+td {
+  background-color: #cce0fc;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size: 65px;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #133569;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #133569;
+}
+
+h3 {
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #133569;
+}
+
+.dl {
+  margin-left: 560px;
+}
+
+#listheadings {
+  margin-left: 410px;
+}
+
+b {
+  font-style: italic;
+  color: #133569;
 }
