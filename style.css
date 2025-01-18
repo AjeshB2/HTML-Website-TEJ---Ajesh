@@ -27,7 +27,7 @@ body {
 }
 
 .button1:hover {
-  background-color: blue;
+  background-color: #16464a;
   color: white;
 }
 
@@ -59,12 +59,12 @@ body {
   padding-left: 70px;
   padding-right: 70px;
   font-size: 20px;
-  background-color: #cce0fc;
+  background-color: #8fd3d9;
   font-family: Helvetica, sans-serif;
 }
 
 td {
-  background-color: #cce0fc;
+  background-color: #8fd3d9;
 }
 
 h1 {
@@ -76,21 +76,21 @@ h1 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  color: #133569;
+  color: #16464a;
 }
 
 h2 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  color: #133569;
+  color: #16464a;
 }
 
 h3 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  color: #133569;
+  color: #16464a;
 }
 
 .dl {
