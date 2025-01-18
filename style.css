@@ -1,9 +1,9 @@
 body {
-  background-color: #2b2e8f;
+  background-color: #16464a;
 }
 
 .button {
-  background-color: blue;
+  background-color: #16464a;
   border: none;
   color: white;
   text-align: center;
@@ -21,7 +21,7 @@ body {
 }
 
 .button1 {
-  background-color: #84b1fa;
+  background-color: #287980;
   color: black;
   border: 2px solid blue;
 }
