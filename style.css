@@ -53,6 +53,14 @@ body {
   height: 400px;
 }
 
+#textLeft {
+  float: left;
+}
+
+#textRight {
+  float: right;
+}
+
 #text {
   padding-top: 10px;
   padding-bottom: 20px;
