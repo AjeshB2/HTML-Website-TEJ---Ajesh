@@ -1,9 +1,9 @@
 body {
-  background-color: #16464a;
+  background-color: #112e3f;
 }
 
 .button {
-  background-color: #16464a;
+  background-color: #112e3f;
   border: none;
   color: white;
   text-align: center;
@@ -59,12 +59,12 @@ body {
   padding-left: 70px;
   padding-right: 70px;
   font-size: 20px;
-  background-color: #8fd3d9;
+  background-color: #14697d;
   font-family: Helvetica, sans-serif;
 }
 
 td {
-  background-color: #8fd3d9;
+  background-color: #14697d;
 }
 
 h1 {
@@ -76,21 +76,21 @@ h1 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  color: #16464a;
+  color: #112e3f;
 }
 
 h2 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  color: #16464a;
+  color: #112e3f;
 }
 
 h3 {
   font-family: Helvetica, sans-serif;
   font-style: italic;
   font-weight: bold;
-  color: #16464a;
+  color: #112e3f;
 }
 
 .dl {
@@ -103,5 +103,5 @@ h3 {
 
 b {
   font-style: italic;
-  color: #133569;
+  color: #112e3f;
 }
