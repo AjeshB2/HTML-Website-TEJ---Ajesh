@@ -119,3 +119,7 @@ b {
 .margins {
   margin-top: 200px;
 }
+
+#videoLeft {
+  float: left;
+}
