@@ -55,12 +55,12 @@ body {
 
 #textLeft {
   text-align: left;
-  margin-right: 100px;
+  margin-right: 300px;
 }
 
 #textRight {
   text-align: right;
-  margin-left: 100px;
+  margin-left: 300px;
 }
 
 #text {
