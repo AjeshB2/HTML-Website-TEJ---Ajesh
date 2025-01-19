@@ -54,11 +54,11 @@ body {
 }
 
 #textLeft {
-  float: left;
+  text-align: left;
 }
 
 #textRight {
-  float: right;
+  text-align: right;
 }
 
 #text {
