@@ -73,6 +73,16 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
+#text2 {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 24px;
+  background-color: #95fbff;
+  font-family: Helvetica, sans-serif;
+}
+
 td {
   background-color: #95fbff;
 }
